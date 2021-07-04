@@ -14,7 +14,7 @@ h1
   color: orange;
 }
 
-section
+.flexible_container
 {
     display: flex;
 }
@@ -54,3 +54,4 @@ padding-top: 20px;
     background-image: url(images/dream-bg.png);
     background-position: right;
 }
+
